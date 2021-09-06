@@ -1,0 +1,777 @@
+Tabela 1612 - Área plantada, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras temporárias;;
+Produto das lavouras temporárias - Soja (em grão);;
+Cód.;Município;Ano x Variável
+;;2019
+;;Área plantada (Hectares)
+1100015;Alta Floresta D'Oeste (RO);450
+1100023;Ariquemes (RO);7893
+1100031;Cabixi (RO);24630
+1100049;Cacoal (RO);1000
+1100056;Cerejeiras (RO);35190
+1100064;Colorado do Oeste (RO);3250
+1100072;Corumbiara (RO);40500
+1100080;Costa Marques (RO);-
+1100098;Espigão D'Oeste (RO);900
+1100106;Guajará-Mirim (RO);-
+1100114;Jaru (RO);-
+1100122;Ji-Paraná (RO);-
+1100130;Machadinho D'Oeste (RO);9300
+1100148;Nova Brasilândia D'Oeste (RO);300
+1100155;Ouro Preto do Oeste (RO);-
+1100189;Pimenta Bueno (RO);568
+1100205;Porto Velho (RO);10650
+1100254;Presidente Médici (RO);-
+1100262;Rio Crespo (RO);21850
+1100288;Rolim de Moura (RO);2533
+1100296;Santa Luzia D'Oeste (RO);400
+1100304;Vilhena (RO);41652
+1100320;São Miguel do Guaporé (RO);11253
+1100338;Nova Mamoré (RO);300
+1100346;Alvorada D'Oeste (RO);370
+1100379;Alto Alegre dos Parecis (RO);2981
+1100403;Alto Paraíso (RO);24112
+1100452;Buritis (RO);-
+1100502;Novo Horizonte do Oeste (RO);1500
+1100601;Cacaulândia (RO);-
+1100700;Campo Novo de Rondônia (RO);174
+1100809;Candeias do Jamari (RO);6000
+1100908;Castanheiras (RO);2405
+1100924;Chupinguaia (RO);33824
+1100940;Cujubim (RO);16414
+1101005;Governador Jorge Teixeira (RO);-
+1101104;Itapuã do Oeste (RO);2793
+1101203;Ministro Andreazza (RO);-
+1101302;Mirante da Serra (RO);-
+1101401;Monte Negro (RO);-
+1101435;Nova União (RO);-
+1101450;Parecis (RO);1180
+1101468;Pimenteiras do Oeste (RO);34352
+1101476;Primavera de Rondônia (RO);-
+1101484;São Felipe D'Oeste (RO);240
+1101492;São Francisco do Guaporé (RO);1200
+1101500;Seringueiras (RO);3337
+1101559;Teixeirópolis (RO);-
+1101609;Theobroma (RO);680
+1101708;Urupá (RO);-
+1101757;Vale do Anari (RO);370
+1101807;Vale do Paraíso (RO);-
+1200013;Acrelândia (AC);-
+1200054;Assis Brasil (AC);-
+1200104;Brasiléia (AC);-
+1200138;Bujari (AC);-
+1200179;Capixaba (AC);500
+1200203;Cruzeiro do Sul (AC);-
+1200252;Epitaciolândia (AC);-
+1200302;Feijó (AC);-
+1200328;Jordão (AC);-
+1200336;Mâncio Lima (AC);-
+1200344;Manoel Urbano (AC);-
+1200351;Marechal Thaumaturgo (AC);-
+1200385;Plácido de Castro (AC);520
+1200393;Porto Walter (AC);-
+1200401;Rio Branco (AC);640
+1200427;Rodrigues Alves (AC);-
+1200435;Santa Rosa do Purus (AC);-
+1200450;Senador Guiomard (AC);-
+1200500;Sena Madureira (AC);-
+1200609;Tarauacá (AC);-
+1200708;Xapuri (AC);-
+1200807;Porto Acre (AC);-
+1300029;Alvarães (AM);-
+1300060;Amaturá (AM);-
+1300086;Anamã (AM);-
+1300102;Anori (AM);-
+1300144;Apuí (AM);-
+1300201;Atalaia do Norte (AM);-
+1300300;Autazes (AM);-
+1300409;Barcelos (AM);-
+1300508;Barreirinha (AM);-
+1300607;Benjamin Constant (AM);-
+1300631;Beruri (AM);-
+1300680;Boa Vista do Ramos (AM);-
+1300706;Boca do Acre (AM);-
+1300805;Borba (AM);-
+1300839;Caapiranga (AM);-
+1300904;Canutama (AM);-
+1301001;Carauari (AM);-
+1301100;Careiro (AM);-
+1301159;Careiro da Várzea (AM);-
+1301209;Coari (AM);-
+1301308;Codajás (AM);-
+1301407;Eirunepé (AM);-
+1301506;Envira (AM);-
+1301605;Fonte Boa (AM);-
+1301654;Guajará (AM);-
+1301704;Humaitá (AM);2500
+1301803;Ipixuna (AM);-
+1301852;Iranduba (AM);-
+1301902;Itacoatiara (AM);-
+1301951;Itamarati (AM);-
+1302009;Itapiranga (AM);-
+1302108;Japurá (AM);-
+1302207;Juruá (AM);-
+1302306;Jutaí (AM);-
+1302405;Lábrea (AM);-
+1302504;Manacapuru (AM);-
+1302553;Manaquiri (AM);-
+1302603;Manaus (AM);-
+1302702;Manicoré (AM);-
+1302801;Maraã (AM);-
+1302900;Maués (AM);-
+1303007;Nhamundá (AM);-
+1303106;Nova Olinda do Norte (AM);-
+1303205;Novo Airão (AM);-
+1303304;Novo Aripuanã (AM);-
+1303403;Parintins (AM);-
+1303502;Pauini (AM);-
+1303536;Presidente Figueiredo (AM);-
+1303569;Rio Preto da Eva (AM);-
+1303601;Santa Isabel do Rio Negro (AM);-
+1303700;Santo Antônio do Içá (AM);-
+1303809;São Gabriel da Cachoeira (AM);-
+1303908;São Paulo de Olivença (AM);-
+1303957;São Sebastião do Uatumã (AM);-
+1304005;Silves (AM);-
+1304062;Tabatinga (AM);-
+1304104;Tapauá (AM);-
+1304203;Tefé (AM);-
+1304237;Tonantins (AM);-
+1304260;Uarini (AM);-
+1304302;Urucará (AM);-
+1304401;Urucurituba (AM);-
+1400027;Amajari (RR);-
+1400050;Alto Alegre (RR);15000
+1400100;Boa Vista (RR);5500
+1400159;Bonfim (RR);10000
+1400175;Cantá (RR);600
+1400209;Caracaraí (RR);-
+1400233;Caroebe (RR);-
+1400282;Iracema (RR);330
+1400308;Mucajaí (RR);300
+1400407;Normandia (RR);-
+1400456;Pacaraima (RR);-
+1400472;Rorainópolis (RR);-
+1400506;São João da Baliza (RR);-
+1400605;São Luiz (RR);-
+1400704;Uiramutã (RR);-
+1500107;Abaetetuba (PA);-
+1500131;Abel Figueiredo (PA);4000
+1500206;Acará (PA);-
+1500305;Afuá (PA);-
+1500347;Água Azul do Norte (PA);530
+1500404;Alenquer (PA);-
+1500503;Almeirim (PA);-
+1500602;Altamira (PA);15000
+1500701;Anajás (PA);-
+1500800;Ananindeua (PA);...
+1500859;Anapu (PA);-
+1500909;Augusto Corrêa (PA);-
+1500958;Aurora do Pará (PA);-
+1501006;Aveiro (PA);-
+1501105;Bagre (PA);-
+1501204;Baião (PA);-
+1501253;Bannach (PA);-
+1501303;Barcarena (PA);-
+1501402;Belém (PA);...
+1501451;Belterra (PA);13851
+1501501;Benevides (PA);...
+1501576;Bom Jesus do Tocantins (PA);-
+1501600;Bonito (PA);-
+1501709;Bragança (PA);-
+1501725;Brasil Novo (PA);-
+1501758;Brejo Grande do Araguaia (PA);500
+1501782;Breu Branco (PA);-
+1501808;Breves (PA);-
+1501907;Bujaru (PA);-
+1501956;Cachoeira do Piriá (PA);-
+1502004;Cachoeira do Arari (PA);-
+1502103;Cametá (PA);-
+1502152;Canaã dos Carajás (PA);-
+1502202;Capanema (PA);-
+1502301;Capitão Poço (PA);-
+1502400;Castanhal (PA);-
+1502509;Chaves (PA);-
+1502608;Colares (PA);-
+1502707;Conceição do Araguaia (PA);3372
+1502756;Concórdia do Pará (PA);-
+1502764;Cumaru do Norte (PA);12220
+1502772;Curionópolis (PA);-
+1502806;Curralinho (PA);-
+1502855;Curuá (PA);-
+1502905;Curuçá (PA);-
+1502939;Dom Eliseu (PA);85000
+1502954;Eldorado do Carajás (PA);-
+1503002;Faro (PA);-
+1503044;Floresta do Araguaia (PA);3680
+1503077;Garrafão do Norte (PA);-
+1503093;Goianésia do Pará (PA);-
+1503101;Gurupá (PA);-
+1503200;Igarapé-Açu (PA);-
+1503309;Igarapé-Miri (PA);-
+1503408;Inhangapi (PA);-
+1503457;Ipixuna do Pará (PA);7000
+1503507;Irituia (PA);-
+1503606;Itaituba (PA);-
+1503705;Itupiranga (PA);-
+1503754;Jacareacanga (PA);-
+1503804;Jacundá (PA);-
+1503903;Juruti (PA);-
+1504000;Limoeiro do Ajuru (PA);-
+1504059;Mãe do Rio (PA);-
+1504109;Magalhães Barata (PA);-
+1504208;Marabá (PA);500
+1504307;Maracanã (PA);-
+1504406;Marapanim (PA);-
+1504422;Marituba (PA);...
+1504455;Medicilândia (PA);-
+1504505;Melgaço (PA);-
+1504604;Mocajuba (PA);-
+1504703;Moju (PA);-
+1504752;Mojuí dos Campos (PA);21500
+1504802;Monte Alegre (PA);-
+1504901;Muaná (PA);-
+1504950;Nova Esperança do Piriá (PA);-
+1504976;Nova Ipixuna (PA);-
+1505007;Nova Timboteua (PA);-
+1505031;Novo Progresso (PA);12500
+1505064;Novo Repartimento (PA);-
+1505106;Óbidos (PA);-
+1505205;Oeiras do Pará (PA);-
+1505304;Oriximiná (PA);-
+1505403;Ourém (PA);-
+1505437;Ourilândia do Norte (PA);-
+1505486;Pacajá (PA);-
+1505494;Palestina do Pará (PA);-
+1505502;Paragominas (PA);162000
+1505536;Parauapebas (PA);600
+1505551;Pau D'Arco (PA);-
+1505601;Peixe-Boi (PA);-
+1505635;Piçarra (PA);-
+1505650;Placas (PA);700
+1505700;Ponta de Pedras (PA);-
+1505809;Portel (PA);-
+1505908;Porto de Moz (PA);-
+1506005;Prainha (PA);-
+1506104;Primavera (PA);-
+1506112;Quatipuru (PA);-
+1506138;Redenção (PA);5461
+1506161;Rio Maria (PA);500
+1506187;Rondon do Pará (PA);35000
+1506195;Rurópolis (PA);680
+1506203;Salinópolis (PA);-
+1506302;Salvaterra (PA);-
+1506351;Santa Bárbara do Pará (PA);-
+1506500;Santa Izabel do Pará (PA);-
+1506559;Santa Luzia do Pará (PA);-
+1506583;Santa Maria das Barreiras (PA);45000
+1506609;Santa Maria do Pará (PA);-
+1506708;Santana do Araguaia (PA);69000
+1506807;Santarém (PA);15530
+1506906;Santarém Novo (PA);-
+1507003;Santo Antônio do Tauá (PA);-
+1507102;São Caetano de Odivelas (PA);-
+1507151;São Domingos do Araguaia (PA);-
+1507201;São Domingos do Capim (PA);-
+1507300;São Félix do Xingu (PA);560
+1507409;São Francisco do Pará (PA);-
+1507458;São Geraldo do Araguaia (PA);-
+1507466;São João da Ponta (PA);-
+1507474;São João de Pirabas (PA);-
+1507508;São João do Araguaia (PA);400
+1507607;São Miguel do Guamá (PA);-
+1507706;São Sebastião da Boa Vista (PA);-
+1507755;Sapucaia (PA);-
+1507805;Senador José Porfírio (PA);-
+1507904;Soure (PA);...
+1507953;Tailândia (PA);11000
+1507961;Terra Alta (PA);-
+1507979;Terra Santa (PA);-
+1508001;Tomé-Açu (PA);-
+1508035;Tracuateua (PA);300
+1508050;Trairão (PA);800
+1508084;Tucumã (PA);250
+1508100;Tucuruí (PA);-
+1508126;Ulianópolis (PA);50000
+1508159;Uruará (PA);230
+1508209;Vigia (PA);-
+1508308;Viseu (PA);-
+1508357;Vitória do Xingu (PA);-
+1508407;Xinguara (PA);100
+1600055;Serra do Navio (AP);-
+1600105;Amapá (AP);26
+1600154;Pedra Branca do Amapari (AP);-
+1600204;Calçoene (AP);-
+1600212;Cutias (AP);-
+1600238;Ferreira Gomes (AP);700
+1600253;Itaubal (AP);3400
+1600279;Laranjal do Jari (AP);-
+1600303;Macapá (AP);8000
+1600402;Mazagão (AP);-
+1600501;Oiapoque (AP);-
+1600535;Porto Grande (AP);1000
+1600550;Pracuúba (AP);-
+1600600;Santana (AP);150
+1600709;Tartarugalzinho (AP);6200
+1600808;Vitória do Jari (AP);-
+1700251;Abreulândia (TO);5445
+1700301;Aguiarnópolis (TO);-
+1700350;Aliança do Tocantins (TO);6401
+1700400;Almas (TO);7800
+1700707;Alvorada (TO);25000
+1701002;Ananás (TO);600
+1701051;Angico (TO);-
+1701101;Aparecida do Rio Negro (TO);22500
+1701309;Aragominas (TO);400
+1701903;Araguacema (TO);16000
+1702000;Araguaçu (TO);8316
+1702109;Araguaína (TO);7064
+1702158;Araguanã (TO);-
+1702208;Araguatins (TO);-
+1702307;Arapoema (TO);1020
+1702406;Arraias (TO);-
+1702554;Augustinópolis (TO);-
+1702703;Aurora do Tocantins (TO);-
+1702901;Axixá do Tocantins (TO);-
+1703008;Babaçulândia (TO);2200
+1703057;Bandeirantes do Tocantins (TO);300
+1703073;Barra do Ouro (TO);5033
+1703107;Barrolândia (TO);-
+1703206;Bernardo Sayão (TO);-
+1703305;Bom Jesus do Tocantins (TO);14500
+1703602;Brasilândia do Tocantins (TO);250
+1703701;Brejinho de Nazaré (TO);23000
+1703800;Buriti do Tocantins (TO);-
+1703826;Cachoeirinha (TO);-
+1703842;Campos Lindos (TO);69100
+1703867;Cariri do Tocantins (TO);15790
+1703883;Carmolândia (TO);-
+1703891;Carrasco Bonito (TO);-
+1703909;Caseara (TO);32798
+1704105;Centenário (TO);4000
+1704600;Chapada de Areia (TO);250
+1705102;Chapada da Natividade (TO);11976
+1705508;Colinas do Tocantins (TO);-
+1705557;Combinado (TO);-
+1705607;Conceição do Tocantins (TO);-
+1706001;Couto Magalhães (TO);6573
+1706100;Cristalândia (TO);5686
+1706258;Crixás do Tocantins (TO);5673
+1706506;Darcinópolis (TO);9000
+1707009;Dianópolis (TO);720
+1707108;Divinópolis do Tocantins (TO);7712
+1707207;Dois Irmãos do Tocantins (TO);4000
+1707306;Dueré (TO);1500
+1707405;Esperantina (TO);-
+1707553;Fátima (TO);1972
+1707652;Figueirópolis (TO);23580
+1707702;Filadélfia (TO);-
+1708205;Formoso do Araguaia (TO);2300
+1708254;Fortaleza do Tabocão (TO);4952
+1708304;Goianorte (TO);1845
+1709005;Goiatins (TO);13200
+1709302;Guaraí (TO);13292
+1709500;Gurupi (TO);12564
+1709807;Ipueiras (TO);3141
+1710508;Itacajá (TO);5829
+1710706;Itaguatins (TO);-
+1710904;Itapiratins (TO);10121
+1711100;Itaporã do Tocantins (TO);-
+1711506;Jaú do Tocantins (TO);1500
+1711803;Juarina (TO);-
+1711902;Lagoa da Confusão (TO);33419
+1711951;Lagoa do Tocantins (TO);2700
+1712009;Lajeado (TO);-
+1712157;Lavandeira (TO);-
+1712405;Lizarda (TO);1255
+1712454;Luzinópolis (TO);400
+1712504;Marianópolis do Tocantins (TO);27300
+1712702;Mateiros (TO);45000
+1712801;Maurilândia do Tocantins (TO);-
+1713205;Miracema do Tocantins (TO);9118
+1713304;Miranorte (TO);9067
+1713601;Monte do Carmo (TO);38000
+1713700;Monte Santo do Tocantins (TO);1160
+1713809;Palmeiras do Tocantins (TO);300
+1713957;Muricilândia (TO);800
+1714203;Natividade (TO);2400
+1714302;Nazaré (TO);-
+1714880;Nova Olinda (TO);370
+1715002;Nova Rosalândia (TO);5010
+1715101;Novo Acordo (TO);5743
+1715150;Novo Alegre (TO);-
+1715259;Novo Jardim (TO);-
+1715507;Oliveira de Fátima (TO);1448
+1715705;Palmeirante (TO);4553
+1715754;Palmeirópolis (TO);2020
+1716109;Paraíso do Tocantins (TO);1290
+1716208;Paranã (TO);-
+1716307;Pau D'Arco (TO);-
+1716505;Pedro Afonso (TO);12000
+1716604;Peixe (TO);49062
+1716653;Pequizeiro (TO);250
+1716703;Colméia (TO);-
+1717008;Pindorama do Tocantins (TO);972
+1717206;Piraquê (TO);5050
+1717503;Pium (TO);15566
+1717800;Ponte Alta do Bom Jesus (TO);-
+1717909;Ponte Alta do Tocantins (TO);-
+1718006;Porto Alegre do Tocantins (TO);-
+1718204;Porto Nacional (TO);41500
+1718303;Praia Norte (TO);-
+1718402;Presidente Kennedy (TO);-
+1718451;Pugmil (TO);2605
+1718501;Recursolândia (TO);-
+1718550;Riachinho (TO);-
+1718659;Rio da Conceição (TO);-
+1718709;Rio dos Bois (TO);8890
+1718758;Rio Sono (TO);3300
+1718808;Sampaio (TO);-
+1718840;Sandolândia (TO);607
+1718865;Santa Fé do Araguaia (TO);9400
+1718881;Santa Maria do Tocantins (TO);7000
+1718899;Santa Rita do Tocantins (TO);15000
+1718907;Santa Rosa do Tocantins (TO);33500
+1719004;Santa Tereza do Tocantins (TO);-
+1720002;Santa Terezinha do Tocantins (TO);-
+1720101;São Bento do Tocantins (TO);-
+1720150;São Félix do Tocantins (TO);-
+1720200;São Miguel do Tocantins (TO);-
+1720259;São Salvador do Tocantins (TO);-
+1720309;São Sebastião do Tocantins (TO);-
+1720499;São Valério (TO);13609
+1720655;Silvanópolis (TO);21000
+1720804;Sítio Novo do Tocantins (TO);-
+1720853;Sucupira (TO);16210
+1720903;Taguatinga (TO);940
+1720937;Taipas do Tocantins (TO);-
+1720978;Talismã (TO);12914
+1721000;Palmas (TO);15630
+1721109;Tocantínia (TO);2980
+1721208;Tocantinópolis (TO);-
+1721257;Tupirama (TO);9680
+1721307;Tupiratins (TO);310
+1722081;Wanderlândia (TO);550
+1722107;Xambioá (TO);500
+2100055;Açailândia (MA);47680
+2100204;Alcântara (MA);-
+2100402;Altamira do Maranhão (MA);-
+2100436;Alto Alegre do Maranhão (MA);-
+2100477;Alto Alegre do Pindaré (MA);-
+2100501;Alto Parnaíba (MA);53510
+2100550;Amapá do Maranhão (MA);-
+2100600;Amarante do Maranhão (MA);-
+2100709;Anajatuba (MA);-
+2100832;Apicum-Açu (MA);-
+2100873;Araguanã (MA);-
+2100956;Arame (MA);-
+2101004;Arari (MA);-
+2101103;Axixá (MA);-
+2101202;Bacabal (MA);-
+2101251;Bacabeira (MA);-
+2101301;Bacuri (MA);-
+2101350;Bacurituba (MA);-
+2101400;Balsas (MA);214912
+2101608;Barra do Corda (MA);250
+2101772;Bela Vista do Maranhão (MA);-
+2101806;Benedito Leite (MA);3752
+2101905;Bequimão (MA);-
+2101939;Bernardo do Mearim (MA);-
+2101970;Boa Vista do Gurupi (MA);-
+2102002;Bom Jardim (MA);12050
+2102036;Bom Jesus das Selvas (MA);3520
+2102077;Bom Lugar (MA);-
+2102150;Brejo de Areia (MA);-
+2102309;Buriti Bravo (MA);3380
+2102325;Buriticupu (MA);30000
+2102358;Buritirana (MA);-
+2102374;Cachoeira Grande (MA);-
+2102408;Cajapió (MA);-
+2102507;Cajari (MA);-
+2102556;Campestre do Maranhão (MA);-
+2102606;Cândido Mendes (MA);-
+2102705;Cantanhede (MA);-
+2102754;Capinzal do Norte (MA);-
+2102804;Carolina (MA);26515
+2102903;Carutapera (MA);-
+2103109;Cedral (MA);-
+2103125;Central do Maranhão (MA);-
+2103158;Centro do Guilherme (MA);-
+2103174;Centro Novo do Maranhão (MA);-
+2103257;Cidelândia (MA);5063
+2103307;Codó (MA);-
+2103505;Colinas (MA);4300
+2103554;Conceição do Lago-Açu (MA);-
+2103604;Coroatá (MA);-
+2103703;Cururupu (MA);-
+2103752;Davinópolis (MA);-
+2103802;Dom Pedro (MA);-
+2104008;Esperantinópolis (MA);-
+2104057;Estreito (MA);125
+2104073;Feira Nova do Maranhão (MA);1015
+2104081;Fernando Falcão (MA);5900
+2104099;Formosa da Serra Negra (MA);-
+2104107;Fortaleza dos Nogueiras (MA);13610
+2104206;Fortuna (MA);500
+2104305;Godofredo Viana (MA);-
+2104404;Gonçalves Dias (MA);-
+2104503;Governador Archer (MA);-
+2104552;Governador Edison Lobão (MA);-
+2104602;Governador Eugênio Barros (MA);727
+2104628;Governador Luiz Rocha (MA);1690
+2104651;Governador Newton Bello (MA);-
+2104677;Governador Nunes Freire (MA);-
+2104701;Graça Aranha (MA);-
+2104800;Grajaú (MA);13348
+2104909;Guimarães (MA);-
+2105104;Icatu (MA);-
+2105153;Igarapé do Meio (MA);-
+2105203;Igarapé Grande (MA);-
+2105302;Imperatriz (MA);-
+2105351;Itaipava do Grajaú (MA);-
+2105401;Itapecuru Mirim (MA);-
+2105427;Itinga do Maranhão (MA);18942
+2105450;Jatobá (MA);420
+2105476;Jenipapo dos Vieiras (MA);-
+2105500;João Lisboa (MA);-
+2105609;Joselândia (MA);-
+2105658;Junco do Maranhão (MA);-
+2105708;Lago da Pedra (MA);1077
+2105807;Lago do Junco (MA);-
+2105906;Lago Verde (MA);-
+2105948;Lago dos Rodrigues (MA);-
+2105963;Lagoa Grande do Maranhão (MA);-
+2105989;Lajeado Novo (MA);638
+2106003;Lima Campos (MA);-
+2106102;Loreto (MA);40120
+2106201;Luís Domingues (MA);-
+2106326;Maracaçumé (MA);-
+2106359;Marajá do Sena (MA);500
+2106375;Maranhãozinho (MA);-
+2106508;Matinha (MA);-
+2106631;Matões do Norte (MA);-
+2106706;Mirador (MA);12370
+2106755;Miranda do Norte (MA);-
+2106805;Mirinzal (MA);-
+2106904;Monção (MA);-
+2107001;Montes Altos (MA);-
+2107100;Morros (MA);-
+2107258;Nova Colinas (MA);3010
+2107308;Nova Iorque (MA);950
+2107357;Nova Olinda do Maranhão (MA);-
+2107407;Olho d'Água das Cunhãs (MA);-
+2107456;Olinda Nova do Maranhão (MA);-
+2107506;Paço do Lumiar (MA);-
+2107605;Palmeirândia (MA);-
+2107704;Paraibano (MA);520
+2108009;Pastos Bons (MA);8557
+2108108;Paulo Ramos (MA);-
+2108207;Pedreiras (MA);-
+2108256;Pedro do Rosário (MA);-
+2108306;Penalva (MA);-
+2108405;Peri Mirim (MA);-
+2108454;Peritoró (MA);-
+2108504;Pindaré-Mirim (MA);-
+2108603;Pinheiro (MA);-
+2108702;Pio XII (MA);-
+2108801;Pirapemas (MA);-
+2108900;Poção de Pedras (MA);-
+2109007;Porto Franco (MA);-
+2109056;Porto Rico do Maranhão (MA);-
+2109106;Presidente Dutra (MA);-
+2109205;Presidente Juscelino (MA);-
+2109239;Presidente Médici (MA);-
+2109270;Presidente Sarney (MA);-
+2109304;Presidente Vargas (MA);-
+2109452;Raposa (MA);-
+2109502;Riachão (MA);52020
+2109551;Ribamar Fiquene (MA);-
+2109601;Rosário (MA);-
+2109700;Sambaíba (MA);51955
+2109759;Santa Filomena do Maranhão (MA);-
+2109809;Santa Helena (MA);-
+2109908;Santa Inês (MA);-
+2110005;Santa Luzia (MA);8140
+2110039;Santa Luzia do Paruá (MA);-
+2110203;Santa Rita (MA);-
+2110302;Santo Antônio dos Lopes (MA);-
+2110500;São Bento (MA);-
+2110658;São Domingos do Azeitão (MA);25769
+2110708;São Domingos do Maranhão (MA);1500
+2110807;São Félix de Balsas (MA);2762
+2110856;São Francisco do Brejão (MA);-
+2111003;São João Batista (MA);-
+2111029;São João do Carú (MA);-
+2111052;São João do Paraíso (MA);20
+2111078;São João do Soter (MA);2430
+2111201;São José de Ribamar (MA);-
+2111250;São José dos Basílios (MA);-
+2111300;São Luís (MA);-
+2111409;São Luís Gonzaga do Maranhão (MA);-
+2111508;São Mateus do Maranhão (MA);-
+2111532;São Pedro da Água Branca (MA);-
+2111573;São Pedro dos Crentes (MA);317
+2111607;São Raimundo das Mangabeiras (MA);19339
+2111631;São Raimundo do Doca Bezerra (MA);-
+2111672;São Roberto (MA);-
+2111706;São Vicente Ferrer (MA);-
+2111722;Satubinha (MA);-
+2111748;Senador Alexandre Costa (MA);350
+2111763;Senador La Rocque (MA);-
+2111789;Serrano do Maranhão (MA);-
+2111805;Sítio Novo (MA);150
+2111904;Sucupira do Norte (MA);4137
+2112001;Tasso Fragoso (MA);186387
+2112100;Timbiras (MA);-
+2112233;Trizidela do Vale (MA);-
+2112274;Tufilândia (MA);-
+2112308;Tuntum (MA);-
+2112407;Turiaçu (MA);-
+2112456;Turilândia (MA);-
+2112704;Vargem Grande (MA);-
+2112803;Viana (MA);-
+2112852;Vila Nova dos Martírios (MA);3350
+2112902;Vitória do Mearim (MA);-
+2113009;Vitorino Freire (MA);-
+2114007;Zé Doca (MA);-
+5100102;Acorizal (MT);-
+5100201;Água Boa (MT);160000
+5100250;Alta Floresta (MT);25599
+5100300;Alto Araguaia (MT);35876
+5100359;Alto Boa Vista (MT);27415
+5100409;Alto Garças (MT);92083
+5100508;Alto Paraguai (MT);7000
+5100607;Alto Taquari (MT);47504
+5100805;Apiacás (MT);-
+5101001;Araguaiana (MT);2485
+5101209;Araguainha (MT);680
+5101258;Araputanga (MT);-
+5101308;Arenápolis (MT);2500
+5101407;Aripuanã (MT);1500
+5101605;Barão de Melgaço (MT);-
+5101704;Barra do Bugres (MT);1295
+5101803;Barra do Garças (MT);26688
+5101852;Bom Jesus do Araguaia (MT);97341
+5101902;Brasnorte (MT);230000
+5102504;Cáceres (MT);11998
+5102603;Campinápolis (MT);29000
+5102637;Campo Novo do Parecis (MT);380000
+5102678;Campo Verde (MT);208000
+5102686;Campos de Júlio (MT);202300
+5102694;Canabrava do Norte (MT);26420
+5102702;Canarana (MT);265000
+5102793;Carlinda (MT);10491
+5102850;Castanheira (MT);-
+5103007;Chapada dos Guimarães (MT);26000
+5103056;Cláudia (MT);103112
+5103106;Cocalinho (MT);9790
+5103205;Colíder (MT);14068
+5103254;Colniza (MT);-
+5103304;Comodoro (MT);80000
+5103353;Confresa (MT);37200
+5103361;Conquista D'Oeste (MT);5583
+5103379;Cotriguaçu (MT);300
+5103403;Cuiabá (MT);-
+5103437;Curvelândia (MT);-
+5103452;Denise (MT);3255
+5103502;Diamantino (MT);345000
+5103601;Dom Aquino (MT);36000
+5103700;Feliz Natal (MT);138000
+5103809;Figueirópolis D'Oeste (MT);-
+5103858;Gaúcha do Norte (MT);220000
+5103908;General Carneiro (MT);54503
+5103957;Glória D'Oeste (MT);-
+5104104;Guarantã do Norte (MT);12600
+5104203;Guiratinga (MT);69000
+5104500;Indiavaí (MT);-
+5104526;Ipiranga do Norte (MT);220000
+5104542;Itanhangá (MT);100000
+5104559;Itaúba (MT);48000
+5104609;Itiquira (MT);180000
+5104807;Jaciara (MT);47000
+5104906;Jangada (MT);848
+5105002;Jauru (MT);-
+5105101;Juara (MT);44000
+5105150;Juína (MT);8000
+5105176;Juruena (MT);500
+5105200;Juscimeira (MT);27000
+5105234;Lambari D'Oeste (MT);900
+5105259;Lucas do Rio Verde (MT);235000
+5105309;Luciara (MT);600
+5105507;Vila Bela da Santíssima Trindade (MT);24750
+5105580;Marcelândia (MT);65000
+5105606;Matupá (MT);41000
+5105622;Mirassol d'Oeste (MT);3420
+5105903;Nobres (MT);40770
+5106000;Nortelândia (MT);26000
+5106109;Nossa Senhora do Livramento (MT);600
+5106158;Nova Bandeirantes (MT);60
+5106174;Nova Nazaré (MT);15000
+5106182;Nova Lacerda (MT);19310
+5106190;Nova Santa Helena (MT);24080
+5106208;Nova Brasilândia (MT);12670
+5106216;Nova Canaã do Norte (MT);39319
+5106224;Nova Mutum (MT);402000
+5106232;Nova Olímpia (MT);-
+5106240;Nova Ubiratã (MT);366482
+5106257;Nova Xavantina (MT);65000
+5106265;Novo Mundo (MT);42000
+5106273;Novo Horizonte do Norte (MT);4200
+5106281;Novo São Joaquim (MT);61836
+5106299;Paranaíta (MT);7923
+5106307;Paranatinga (MT);260000
+5106315;Novo Santo Antônio (MT);1700
+5106372;Pedra Preta (MT);65964
+5106422;Peixoto de Azevedo (MT);29000
+5106455;Planalto da Serra (MT);26663
+5106505;Poconé (MT);8070
+5106653;Pontal do Araguaia (MT);1050
+5106703;Ponte Branca (MT);107
+5106752;Pontes e Lacerda (MT);19456
+5106778;Porto Alegre do Norte (MT);30250
+5106802;Porto dos Gaúchos (MT);178600
+5106828;Porto Esperidião (MT);2314
+5106851;Porto Estrela (MT);-
+5107008;Poxoréu (MT);64000
+5107040;Primavera do Leste (MT);270000
+5107065;Querência (MT);360000
+5107107;São José dos Quatro Marcos (MT);2200
+5107156;Reserva do Cabaçal (MT);-
+5107180;Ribeirão Cascalheira (MT);90000
+5107198;Ribeirãozinho (MT);20335
+5107206;Rio Branco (MT);-
+5107248;Santa Carmem (MT);115000
+5107263;Santo Afonso (MT);14000
+5107297;São José do Povo (MT);-
+5107305;São José do Rio Claro (MT);120000
+5107354;São José do Xingu (MT);85200
+5107404;São Pedro da Cipa (MT);2000
+5107578;Rondolândia (MT);-
+5107602;Rondonópolis (MT);85000
+5107701;Rosário Oeste (MT);25960
+5107743;Santa Cruz do Xingu (MT);32700
+5107750;Salto do Céu (MT);1650
+5107768;Santa Rita do Trivelato (MT);160000
+5107776;Santa Terezinha (MT);22130
+5107792;Santo Antônio do Leste (MT);98000
+5107800;Santo Antônio do Leverger (MT);21000
+5107859;São Félix do Araguaia (MT);219614
+5107875;Sapezal (MT);355000
+5107883;Serra Nova Dourada (MT);6100
+5107909;Sinop (MT);151422
+5107925;Sorriso (MT);605000
+5107941;Tabaporã (MT);146020
+5107958;Tangará da Serra (MT);106000
+5108006;Tapurah (MT);180000
+5108055;Terra Nova do Norte (MT);17285
+5108105;Tesouro (MT);29000
+5108204;Torixoréu (MT);16660
+5108303;União do Sul (MT);61200
+5108352;Vale de São Domingos (MT);-
+5108402;Várzea Grande (MT);-
+5108501;Vera (MT);132000
+5108600;Vila Rica (MT);37500
+5108808;Nova Guarita (MT);11500
+5108857;Nova Marilândia (MT);17200
+5108907;Nova Maringá (MT);200000
+5108956;Nova Monte Verde (MT);1509
+Fonte: IBGE - Produção Agrícola Municipal;;
