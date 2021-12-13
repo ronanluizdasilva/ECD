@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Scrollama: Sticky Side Example</title>
+    <meta name="description" content="Scrollama: Sticky Side Example" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      #scrolly {
+        position: relative;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        background-color: #fff;
+        padding: 1rem;
+      }
+
+      #scrolly > * {
+        -webkit-box-flex: 1;
+        -ms-flex: 1;
+        flex: 1;
+      }
+
+      article {
+        position: relative;
+        padding: 0 1rem;
+        max-width: 20rem;
+      }
+
+      .sticky-thing {
+        position: -webkit-sticky;
+        position: sticky;
+        width: 100%;
+        margin: 0;
+        background-color: #fff;
+        z-index: 0;
+        top: 12.5vh;
+        height: 75vh;
+        /* Center everything inside */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .sticky-thing p {
+        padding: 1rem;
+        font-size: 8rem;
+        font-weight: 900;
+        color: #fff;
+      }
+
+      .step {
+        margin: 0 auto 2rem auto;
+        background-color: #3b3b3b;
+        color: #fff;
+      }
+
+      .step:last-child {
+        margin-bottom: 0;
+      }
+
+      .step.is-active {
+        background-color: goldenrod;
+        color: #3b3b3b;
+      }
+
+      .step p {
+        text-align: center;
+        padding: 1rem;
+        font-size: 1.5rem;
+      }
+
+      #vis div {
+          margin-top: 25px;
+          font-size: 21px;
+          text-align: center;
+          animation: fadein 2s;
+          -moz-animation: fadein 2s; /* Firefox */
+          -webkit-animation: fadein 2s; /* Safari and Chrome */
+          -o-animation: fadein 2s; /* Opera */
+      }
+      @keyframes fadein {
+          from {
+              opacity:0;
+          }
+          to {
+              opacity:1;
+          }
+      }
+      @-moz-keyframes fadein { /* Firefox */
+          from {
+              opacity:0;
+          }
+          to {
+              opacity:1;
+          }
+      }
+      @-webkit-keyframes fadein { /* Safari and Chrome */
+          from {
+              opacity:0;
+          }
+          to {
+              opacity:1;
+          }
+      }
+      @-o-keyframes fadein { /* Opera */
+          from {
+              opacity:0;
+          }
+          to {
+              opacity: 1;
+          }
+      }
+    </style>
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.21.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.2"></script>
+
+  </head>
+
+  <body>
+    <main>
+      <nav>
+
+        <div class="nav__important_links">
+          <p>Exercício 10.1 - Ronan Luiz da Silva</p>
+          <p>Links: </p>
+          <a href="https://basedosdados.org/dataset/br-inpe-prodes">Base dos Dados - Prodes</a>
+          <a href="http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes">PRODES</a>
+
+        </div>
+      </nav>
+      <section id="intro">
+        <h1 class="intro__hed">Desmatamento na Amazônia Legal</h1>
+        <a href="https://www.youtube.com/watch?v=c4-KpR1HrNs" target="_blank"> <img src="images/desmatamento.jpg"  alt="Foto de Pok Rie no Pexels" width="500" height="400"> </a>
+        <p class="intro__dek">
+          A Floresta está perdendo o jogo.
+        </p>
+      </section>
+      <section id="scrolly">
+        <article>
+          <div class="step" data-step="1">
+            <p>O projeto PRODES realiza o monitoramento por satélites do desmatamento por corte raso na Amazônia
+                Legal e produz, desde 1988, as taxas anuais de desmatamento na região, que são usadas pelo governo
+                brasileiro para o estabelecimento de políticas públicas. O gráfico ao lado demonstra a dinâmica do
+                desmatamento (incremento de área desmatada) a partir de 2002 na Amazônia Legal.</p>
+          </div>
+          <div class="step" data-step="2">
+            <p> A Amazônia Legal é composta por nove estados (Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia,
+              Tocantins e parte do Maranhão). Ocupa hoje mais de 5 milhões de km2. No gráfico ao lado podemos acompanhar
+              a evolução, ano a ano, a partir de 2002, do desmatamento por estado.</p>
+          </div>
+          <div class="step" data-step="3">
+            <p> O BoxPlot ao lado revela um aspecto importante do processo de desmatamento na Amzônia Legal:
+              A maioria dos municipios apresenta
+              baixos incrementos de desmatamento.No entanto,um pequeno
+              número de municípios é responsável por grande parte
+            do incremento do desmatamento a cada ano, com taxas muito acima das médias anuais ("outliers"). Essa dinâmica justifica a Politica de Muncípios Prioritários para
+            ações de prevenção, monitoramento e controle do desmatamento na Amazônia.</p>
+          </div>
+          <div class="step" data-step="4">
+            <p>Este gráfico apresenta a relação quantitativa entre o incremento de área desmatada e o pib do
+              municipio. Nota-se que os maiores incrementos de desmatamento, nesse ano, relacionados a baixos PibPercapitas </p>
+          </div>
+        </article>
+
+        <div class="sticky-thing">
+          <div id="vis"></div>
+        </div>
+      </section>
+
+      <section id="outro">
+        <div style="margin:5rem">
+          <p>"O desafio brasileiro vai além da Amazônia.Não dá mais para jogar para o futuro." Carlos Nobre</p>
+        </div>
+
+      </section>
+    </main>
+
+    <!-- <div class='debug'></div> -->
+<script>
+      // using d3 for convenience
+      var main = document.querySelector("main");
+      var scrolly = main.querySelector("#scrolly");
+      var sticky = scrolly.querySelector(".sticky-thing");
+      var article = scrolly.querySelector("article");
+      var steps = article.querySelectorAll(".step");
+
+      // initialize the scrollama
+      var scroller = scrollama();
+
+      // scrollama event handlers
+      function handleStepEnter(response) {
+        // response = { element, direction, index }
+        var el = response.element;
+
+        // remove is-active from all steps
+        // then add is-active to this step
+        steps.forEach(step => step.classList.remove('is-active'));
+        el.classList.add('is-active');
+
+        // update graphic based on step
+        // sticky.querySelector("p").innerText = el.dataset.step;
+        if(el.dataset.step=='1') {
+          vegaEmbed('#vis', yourVlSpec1);
+        }
+        else if (el.dataset.step=='2'){
+          vegaEmbed('#vis', yourVlSpec2);
+        }
+        else if (el.dataset.step=='3'){
+          vegaEmbed('#vis', yourVlSpec3);
+        }
+        else if (el.dataset.step=='4'){
+          vegaEmbed('#vis', yourVlSpec4);
+        }
+
+      }
+
+      function init() {
+        scroller
+          .setup({
+            step: "#scrolly article .step",
+            offset: 0.33,
+            debug: false
+          })
+          .onStepEnter(handleStepEnter);
+
+        // setup resize event
+        window.addEventListener("resize", scroller.resize);
+      }
+
+      // kick things off
+      init();
+    </script>
+
+    <script type="text/javascript">
+      var yourVlSpec1 = {
+          $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+          width: 600,
+          height: 400,
+          data: {
+            url: 'data/Incremento_total_AMZL_ano.csv',
+            format: {type: 'csv'}
+          },
+          mark: "bar",
+          encoding: {
+            x:{field:"ano"},
+            y:{field:"t_incr_ano",type:"quantitative"}
+          }
+      };
+
+
+      var yourVlSpec2 = {
+          $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+          width: 600,
+          height: 400,
+          data: {
+            url: 'data/Incremento_AMZL_ano_uf.csv',
+            format: {type: 'csv'}
+          },
+          mark: "line",
+          encoding: {
+            x:{field:"ano"},
+            y:{field:"t_incr_ano_uf",type:"quantitative"},
+            color: {field: "sigla_uf", type: "nominal", scale: {scheme: "turbo"}}
+          }
+
+      };
+      var yourVlSpec3 = {
+          $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+          width: 600,
+          height: 400,
+          data: {
+            url: 'data/Incremento_ano_AMZL.csv',
+            format: {type: 'csv'}
+          },
+          mark: "boxplot",
+          encoding: {
+            x:{field:"ano"},
+            y:{field:"incremento",type:"quantitative"}
+
+          }
+      };
+      var yourVlSpec4 = {
+          $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+          width: 600,
+          height: 400,
+          data: {
+            url: 'data/Incremento_PIB_2018_AMZL.csv',
+            format: {type: 'csv'}
+          },
+
+          mark: "point",
+          encoding: {
+            x:{field:"PibPercapita",type:"quantitative"},
+            y:{field:"incremento",type:"quantitative"}
+           }
+
+      };
+    </script>
+  </body>
+</html>
