@@ -1,6 +1,4 @@
-﻿Ano;Leilão;Mês;Biodiesel (R$/m3);"Metanol
- (US$/MT)";Óleo de soja FOB-Porto Paranaguá (US$/t);"Cotação dólar
- (R$/US$)"
+﻿Ano;Leilão;Mês;Biodiesel (R$/m3);Metanol (US$/MT);Óleo de soja FOB-Porto Paranaguá (US$/t);Cotação dólar (R$/US$)
 2017 ;52 ;jan;2.810,81;416,00; 793,38 ;3,383
 2017 ;52 ;fev;2.810,81;416,00; 765,33 ;3,2034
 2017 ;53 ;mar;2.302,38;499,00; 729,67 ;3,0779
